@@ -11,10 +11,10 @@ var foo = 'bar'
 
 ### and now Lists
 
-** good for keepent tabs on what your ai agent has done ... **
+* * good for keepent tabs on what your ai agent has done ... * *
 
-- [x] knowing is first step
-- [ ] implementing it .. 
+- [x]  knowing is first step
+- [ ]  implementing it on the other hand .. 
 
 
 ### alse the bold italic mix
