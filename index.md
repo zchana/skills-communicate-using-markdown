@@ -15,3 +15,14 @@ var foo = 'bar'
 
 - [x] knowing is first step
 - [ ] implementing it .. 
+
+
+### alse the bold italic mix
+
+_well_ → well
+
+*one* → one
+
+**two** → two
+
+***three*** → three
